@@ -11,4 +11,7 @@ Los retos de programación recopilados son:
     - Múltiplo de 3 por la palabra "fizz"
     - Múltiplo de 5 por la palabra "buzz"
     - Múltiplo de 3 y de 5 a la vez por la palabra "fizzbuzz"
-2. 
+2. **Anagrama** Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Boolean) según sean o no anagramas
+    - Un anagrama consiste en formar una palabra reordenando todas las letras de otra palabra inicial
+    - No hace falta comprobar que ambas palabras existan
+    - Dos palabras exactamente iguales no son anagrama

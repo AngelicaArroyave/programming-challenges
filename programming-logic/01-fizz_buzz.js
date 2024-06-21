@@ -6,7 +6,7 @@ function main() {
         const validateMultiply5 = i % SEARCH_MULTIPLES[1] === 0
     
         validateFirstForm(validateMultiply3, validateMultiply5, i)
-        // validateFirstForm(validateMultiply3, validateMultiply5, i)
+        // validateSecondForm(validateMultiply3, validateMultiply5, i)
     }
 }
 
