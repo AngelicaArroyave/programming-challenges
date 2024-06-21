@@ -15,3 +15,5 @@ Los retos de programación recopilados son:
     - Un anagrama consiste en formar una palabra reordenando todas las letras de otra palabra inicial
     - No hace falta comprobar que ambas palabras existan
     - Dos palabras exactamente iguales no son anagrama
+3. **Sucesión de Fibonacci** Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci empezando en 0
+    - La serie de Fibonacci se compone por una sucesión de números en la que el siguiente siempre es la suma de los dos anteriores: 0, 1, 1, 2, 3, 5, 8, 13, ...
