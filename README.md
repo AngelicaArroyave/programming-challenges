@@ -8,9 +8,9 @@ Los retos de programación recopilados son:
 
 ## Descripción de los Ejercicios
 1. **Fizz Buzz** Escribe un programa que muestre por consola los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
-    - Múltiplo de 3 por la palabra "fizz"
-    - Múltiplo de 5 por la palabra "buzz"
-    - Múltiplo de 3 y de 5 a la vez por la palabra "fizzbuzz"
+    - Múltiplo de 3 por la palabra ```fizz```
+    - Múltiplo de 5 por la palabra ```buzz```
+    - Múltiplo de 3 y de 5 a la vez por la palabra ```fizzbuzz```
 2. **Anagrama** Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Boolean) según sean o no anagramas
     - Un anagrama consiste en formar una palabra reordenando todas las letras de otra palabra inicial
     - No hace falta comprobar que ambas palabras existan
@@ -25,3 +25,5 @@ Los retos de programación recopilados son:
         * Cuadrado ```a^2```
         * Rectángulo ```b * h```
     - Imprime el cálculo del área de un polígono de cada tipo
+6. **Invirtiendo cadenas** Crea un programa que invierta el orden de una cadena de texto sin usar funciones propias del lenguage que lo haga de forma automática
+    - Si se envía ```Hola mundo``` retornaría ```odnum aloH```
