@@ -27,3 +27,7 @@ Los retos de programación recopilados son:
     - Imprime el cálculo del área de un polígono de cada tipo
 6. **Invirtiendo cadenas** Crea un programa que invierta el orden de una cadena de texto sin usar funciones propias del lenguage que lo haga de forma automática
     - Si se envía ```Hola mundo``` retornaría ```odnum aloH```
+7. **Contado palabras** Crea un programa que cuente cuantas veces se repite cada palabra y que muestre el recuento final de todas ellas
+    - Los signos de puntuación no forman parte de la palabra
+    - Una palabra es la misma aunque parezca en mayúsculas y minúsculas
+    - No se pueden utilizar funciones propias del lenguaje que lo resuelvan automáticamente
