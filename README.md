@@ -1,5 +1,5 @@
 # programming-challenges
-El repositorio contiene retos de programación que permiten mejorar la lógica de programación y el conocimiento que se tenga de un determinado lenguaje, se debe tener en cuneta que el lenguaje que se usará para las soluciones será JavaScript.
+El repositorio contiene retos de programación que permiten mejorar la lógica de programación y el conocimiento que se tenga de un determinado lenguaje, se debe tener en cuenta que el lenguaje que se usará para las soluciones será JavaScript.
 
 ## Nota
 Los retos de programación recopilados son:
@@ -31,3 +31,7 @@ Los retos de programación recopilados son:
     - Los signos de puntuación no forman parte de la palabra
     - Una palabra es la misma aunque parezca en mayúsculas y minúsculas
     - No se pueden utilizar funciones propias del lenguaje que lo resuelvan automáticamente
+8. **Aspect Ratio de una imagen** Crea run programa que se encargue de calcular el aspecto ratio de una imagen a partir de una url
+    - Url de ejemplo: https://github.com/AngelicaArroyave/music-festival/blob/main/src/img/imagen_dj.jpg
+    - Por ratio hacemos referencia, por ejemplo, a los "16:9" de una imagen de 1920*1080 px
+9. **Decimal a binario** Crea un programa que se encargue de transformar un número decimal a binario sin utilziar funciones propias del lenguaje que lo hagan directamente
