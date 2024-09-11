@@ -35,3 +35,7 @@ Los retos de programación recopilados son:
     - Url de ejemplo: https://github.com/AngelicaArroyave/music-festival/blob/main/src/img/imagen_dj.jpg
     - Por ratio hacemos referencia, por ejemplo, a los "16:9" de una imagen de 1920*1080 px
 9. **Decimal a binario** Crea un programa que se encargue de transformar un número decimal a binario sin utilziar funciones propias del lenguaje que lo hagan directamente
+10. **Código Morse** Crea un programa que sea capaz de transformar texto natural a código Morse y viceversa
+    - Debe detectar automáticamente de qué tipo se trata y realizar la conversión
+    - En Morse se soporta raya ```-```, punto ```.```, un espacio " " entre letras o símbolos y dos espacios entre palabras "  "
+    - El alfabeto Morse soportado será el mostrado en https://es.wikipedia.org/wiki/Código_morse
