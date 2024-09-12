@@ -52,3 +52,4 @@ Los retos de programación recopilados son:
     - Un palíndromo es una palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda
     - NO se tienen en cuenta los espacios, signos de puntuación y tildes.
     - Ejemplo: ```Ana lleva al oso la avellana```
+14. **Factorial reccursivo** Escribe una función que calcule y retorne el factorial de un número dado de forma recursiva
