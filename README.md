@@ -48,3 +48,7 @@ Los retos de programación recopilados son:
 12. **Eliminando caracteres** Crea una función que reciba dos cadenas como parámetros (str1, str2) e imprima otras dos cadenas como salida (out1, out2).
     - out1 contendrá todos los caracteres presentes en la str1 pero NO estén presentes en str2
     - out2 contendrá todos los caracteres presentes en la str2 pero NO estén presentes en str1
+13. **¿Es un palíndromo?** Escribe una función que reciba un texto y retorne verdadero o falso (Boolean) según sea o no palíndromos.
+    - Un palíndromo es una palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda
+    - NO se tienen en cuenta los espacios, signos de puntuación y tildes.
+    - Ejemplo: ```Ana lleva al oso la avellana```
