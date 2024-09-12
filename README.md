@@ -39,3 +39,9 @@ Los retos de programación recopilados son:
     - Debe detectar automáticamente de qué tipo se trata y realizar la conversión
     - En Morse se soporta raya ```-```, punto ```.```, un espacio " " entre letras o símbolos y dos espacios entre palabras "  "
     - El alfabeto Morse soportado será el mostrado en https://es.wikipedia.org/wiki/Código_morse
+11. **Expresiones equilibradas** Crea un programa que comprueba si los paréntesis, llaves y corchetes de una expresión están equilibrados.
+    - Equilibrado significa que estos delimitadores se abren y cierran en orden y de forma correcta
+    - Paréntesis, llaves y corchetes son igual de prioritarios
+    - No hay uno más importante que otro
+    - Expresión balanceada: ```{ [ a * ( c + d ) ] - 5 }```
+    - Expresión no balanceada: ```{ a * ( c + d ) ] - 5 }```
