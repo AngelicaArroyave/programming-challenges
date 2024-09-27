@@ -53,3 +53,4 @@ Los retos de programación recopilados son:
     - NO se tienen en cuenta los espacios, signos de puntuación y tildes.
     - Ejemplo: ```Ana lleva al oso la avellana```
 14. **Factorial reccursivo** Escribe una función que calcule y retorne el factorial de un número dado de forma recursiva
+15. **¿Es un número de Armstrong?** Escribe una función que calcule si un número dado es un número de Armstrong (o también llamado narcisista)
