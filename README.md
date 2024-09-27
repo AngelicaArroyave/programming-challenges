@@ -39,3 +39,18 @@ Los retos de programación recopilados son:
     - Debe detectar automáticamente de qué tipo se trata y realizar la conversión
     - En Morse se soporta raya ```-```, punto ```.```, un espacio " " entre letras o símbolos y dos espacios entre palabras "  "
     - El alfabeto Morse soportado será el mostrado en https://es.wikipedia.org/wiki/Código_morse
+11. **Expresiones equilibradas** Crea un programa que comprueba si los paréntesis, llaves y corchetes de una expresión están equilibrados.
+    - Equilibrado significa que estos delimitadores se abren y cierran en orden y de forma correcta
+    - Paréntesis, llaves y corchetes son igual de prioritarios
+    - No hay uno más importante que otro
+    - Expresión balanceada: ```{ [ a * ( c + d ) ] - 5 }```
+    - Expresión no balanceada: ```{ a * ( c + d ) ] - 5 }```
+12. **Eliminando caracteres** Crea una función que reciba dos cadenas como parámetros (str1, str2) e imprima otras dos cadenas como salida (out1, out2).
+    - out1 contendrá todos los caracteres presentes en la str1 pero NO estén presentes en str2
+    - out2 contendrá todos los caracteres presentes en la str2 pero NO estén presentes en str1
+13. **¿Es un palíndromo?** Escribe una función que reciba un texto y retorne verdadero o falso (Boolean) según sea o no palíndromos.
+    - Un palíndromo es una palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda
+    - NO se tienen en cuenta los espacios, signos de puntuación y tildes.
+    - Ejemplo: ```Ana lleva al oso la avellana```
+14. **Factorial reccursivo** Escribe una función que calcule y retorne el factorial de un número dado de forma recursiva
+15. **¿Es un número de Armstrong?** Escribe una función que calcule si un número dado es un número de Armstrong (o también llamado narcisista)
