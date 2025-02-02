@@ -54,3 +54,8 @@ Los retos de programación recopilados son:
     - Ejemplo: ```Ana lleva al oso la avellana```
 14. **Factorial reccursivo** Escribe una función que calcule y retorne el factorial de un número dado de forma recursiva
 15. **¿Es un número de Armstrong?** Escribe una función que calcule si un número dado es un número de Armstrong (o también llamado narcisista)
+16. **¿Cuántos días?** Crea una función que calcule y retorne cuántos días hay entre dos cadenas de texto que representen fechas.
+    - Una cadena de texto que representa una fecha tiene el formato ```dd/MM/yyyy```.
+    - La función recibirá dos Strings y retornará un Int.
+    - La diferencia en días será absoluta (no importa el orden de las fechas).
+    - Si una de las dos cadenas de texto no representa una fecha correcta se lanzará una excepción.
